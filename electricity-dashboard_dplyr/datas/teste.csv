@@ -1,0 +1,601 @@
+"country","year","type","twh","tot"
+"1","United States",2014,"biofuel_electricity",63990,49359.6
+"2","United States",2014,"coal_electricity",1581710,49359.6
+"3","United States",2014,"gas_electricity",1126610,49359.6
+"4","United States",2014,"hydro_electricity",253190,49359.6
+"5","United States",2014,"nuclear_electricity",797170,49359.6
+"6","United States",2014,"oil_electricity",43690,49359.6
+"7","United States",2014,"other_renewable_exc_biofuel_electricity",19080,49359.6
+"8","United States",2014,"solar_electricity",28920,49359.6
+"9","United States",2014,"wind_electricity",181650,49359.6
+"10","United States",2014,"tot",4096010,49359.6
+"11","United States",2015,"biofuel_electricity",63630,49359.6
+"12","United States",2015,"coal_electricity",1352400,49359.6
+"13","United States",2015,"gas_electricity",1333480,49359.6
+"14","United States",2015,"hydro_electricity",243990,49359.6
+"15","United States",2015,"nuclear_electricity",797180,49359.6
+"16","United States",2015,"oil_electricity",44440,49359.6
+"17","United States",2015,"other_renewable_exc_biofuel_electricity",19120,49359.6
+"18","United States",2015,"solar_electricity",39030,49359.6
+"19","United States",2015,"wind_electricity",190720,49359.6
+"20","United States",2015,"tot",4083990,49359.6
+"21","United States",2016,"biofuel_electricity",62760,49359.6
+"22","United States",2016,"coal_electricity",1239150,49359.6
+"23","United States",2016,"gas_electricity",1378310,49359.6
+"24","United States",2016,"hydro_electricity",261130,49359.6
+"25","United States",2016,"nuclear_electricity",805690,49359.6
+"26","United States",2016,"oil_electricity",39500,49359.6
+"27","United States",2016,"other_renewable_exc_biofuel_electricity",19160,49359.6
+"28","United States",2016,"solar_electricity",54870,49359.6
+"29","United States",2016,"wind_electricity",226990,49359.6
+"30","United States",2016,"tot",4087560,49359.6
+"31","United States",2017,"biofuel_electricity",62730,49359.6
+"32","United States",2017,"coal_electricity",1205840,49359.6
+"33","United States",2017,"gas_electricity",1296440,49359.6
+"34","United States",2017,"hydro_electricity",293840,49359.6
+"35","United States",2017,"nuclear_electricity",804950,49359.6
+"36","United States",2017,"oil_electricity",37890,49359.6
+"37","United States",2017,"other_renewable_exc_biofuel_electricity",19040,49359.6
+"38","United States",2017,"solar_electricity",77280,49359.6
+"39","United States",2017,"wind_electricity",254300,49359.6
+"40","United States",2017,"tot",4052310,49359.6
+"41","United States",2018,"biofuel_electricity",61830,49359.6
+"42","United States",2018,"coal_electricity",1149490,49359.6
+"43","United States",2018,"gas_electricity",1469130,49359.6
+"44","United States",2018,"hydro_electricity",286620,49359.6
+"45","United States",2018,"nuclear_electricity",807080,49359.6
+"46","United States",2018,"oil_electricity",42680,49359.6
+"47","United States",2018,"other_renewable_exc_biofuel_electricity",18690,49359.6
+"48","United States",2018,"solar_electricity",93360,49359.6
+"49","United States",2018,"wind_electricity",272670,49359.6
+"50","United States",2018,"tot",4201550,49359.6
+"51","United States",2019,"biofuel_electricity",57510,49359.6
+"52","United States",2019,"coal_electricity",964960,49359.6
+"53","United States",2019,"gas_electricity",1585810,49359.6
+"54","United States",2019,"hydro_electricity",282610,49359.6
+"55","United States",2019,"nuclear_electricity",809410,49359.6
+"56","United States",2019,"oil_electricity",37440,49359.6
+"57","United States",2019,"other_renewable_exc_biofuel_electricity",17870,49359.6
+"58","United States",2019,"solar_electricity",106890,49359.6
+"59","United States",2019,"wind_electricity",295880,49359.6
+"60","United States",2019,"tot",4158380,49359.6
+"61","Germany",2014,"biofuel_electricity",48290,7552.54
+"62","Germany",2014,"coal_electricity",274410,7552.54
+"63","Germany",2014,"gas_electricity",60610,7552.54
+"64","Germany",2014,"hydro_electricity",19590,7552.54
+"65","Germany",2014,"nuclear_electricity",97130,7552.54
+"66","Germany",2014,"oil_electricity",24670,7552.54
+"67","Germany",2014,"other_renewable_exc_biofuel_electricity",100,7552.54
+"68","Germany",2014,"solar_electricity",35450,7552.54
+"69","Germany",2014,"wind_electricity",58500,7552.54
+"70","Germany",2014,"tot",618750,7552.54
+"71","Germany",2015,"biofuel_electricity",50330,7552.54
+"72","Germany",2015,"coal_electricity",272200,7552.54
+"73","Germany",2015,"gas_electricity",61470,7552.54
+"74","Germany",2015,"hydro_electricity",18980,7552.54
+"75","Germany",2015,"nuclear_electricity",91790,7552.54
+"76","Germany",2015,"oil_electricity",25570,7552.54
+"77","Germany",2015,"other_renewable_exc_biofuel_electricity",130,7552.54
+"78","Germany",2015,"solar_electricity",38080,7552.54
+"79","Germany",2015,"wind_electricity",80620,7552.54
+"80","Germany",2015,"tot",639170,7552.54
+"81","Germany",2016,"biofuel_electricity",50930,7552.54
+"82","Germany",2016,"coal_electricity",261750,7552.54
+"83","Germany",2016,"gas_electricity",80620,7552.54
+"84","Germany",2016,"hydro_electricity",20550,7552.54
+"85","Germany",2016,"nuclear_electricity",84630,7552.54
+"86","Germany",2016,"oil_electricity",25390,7552.54
+"87","Germany",2016,"other_renewable_exc_biofuel_electricity",170,7552.54
+"88","Germany",2016,"solar_electricity",37560,7552.54
+"89","Germany",2016,"wind_electricity",79920,7552.54
+"90","Germany",2016,"tot",641520,7552.54
+"91","Germany",2017,"biofuel_electricity",50920,7552.54
+"92","Germany",2017,"coal_electricity",241260,7552.54
+"93","Germany",2017,"gas_electricity",86040,7552.54
+"94","Germany",2017,"hydro_electricity",20150,7552.54
+"95","Germany",2017,"nuclear_electricity",76320,7552.54
+"96","Germany",2017,"oil_electricity",25160,7552.54
+"97","Germany",2017,"other_renewable_exc_biofuel_electricity",160,7552.54
+"98","Germany",2017,"solar_electricity",38760,7552.54
+"99","Germany",2017,"wind_electricity",105690,7552.54
+"100","Germany",2017,"tot",644460,7552.54
+"101","Germany",2018,"biofuel_electricity",50790,7552.54
+"102","Germany",2018,"coal_electricity",228160,7552.54
+"103","Germany",2018,"gas_electricity",81560,7552.54
+"104","Germany",2018,"hydro_electricity",17690,7552.54
+"105","Germany",2018,"nuclear_electricity",76000,7552.54
+"106","Germany",2018,"oil_electricity",23630,7552.54
+"107","Germany",2018,"other_renewable_exc_biofuel_electricity",180,7552.54
+"108","Germany",2018,"solar_electricity",44320,7552.54
+"109","Germany",2018,"wind_electricity",109950,7552.54
+"110","Germany",2018,"tot",632280,7552.54
+"111","Germany",2019,"biofuel_electricity",50130,7552.54
+"112","Germany",2019,"coal_electricity",171450,7552.54
+"113","Germany",2019,"gas_electricity",90000,7552.54
+"114","Germany",2019,"hydro_electricity",19730,7552.54
+"115","Germany",2019,"nuclear_electricity",75070,7552.54
+"116","Germany",2019,"oil_electricity",22400,7552.54
+"117","Germany",2019,"other_renewable_exc_biofuel_electricity",200,7552.54
+"118","Germany",2019,"solar_electricity",45220,7552.54
+"119","Germany",2019,"wind_electricity",125890,7552.54
+"120","Germany",2019,"tot",600090,7552.54
+"121","France",2014,"biofuel_electricity",5990,6794.52
+"122","France",2014,"coal_electricity",11260,6794.52
+"123","France",2014,"gas_electricity",13160,6794.52
+"124","France",2014,"hydro_electricity",63770,6794.52
+"125","France",2014,"nuclear_electricity",436480,6794.52
+"126","France",2014,"oil_electricity",11340,6794.52
+"127","France",2014,"other_renewable_exc_biofuel_electricity",560,6794.52
+"128","France",2014,"solar_electricity",6390,6794.52
+"129","France",2014,"wind_electricity",17320,6794.52
+"130","France",2014,"tot",566270,6794.52
+"131","France",2015,"biofuel_electricity",6530,6794.52
+"132","France",2015,"coal_electricity",11890,6794.52
+"133","France",2015,"gas_electricity",21140,6794.52
+"134","France",2015,"hydro_electricity",55560,6794.52
+"135","France",2015,"nuclear_electricity",437430,6794.52
+"136","France",2015,"oil_electricity",11810,6794.52
+"137","France",2015,"other_renewable_exc_biofuel_electricity",580,6794.52
+"138","France",2015,"solar_electricity",7750,6794.52
+"139","France",2015,"wind_electricity",21420,6794.52
+"140","France",2015,"tot",574110,6794.52
+"141","France",2016,"biofuel_electricity",7520,6794.52
+"142","France",2016,"coal_electricity",10230,6794.52
+"143","France",2016,"gas_electricity",34970,6794.52
+"144","France",2016,"hydro_electricity",60840,6794.52
+"145","France",2016,"nuclear_electricity",403200,6794.52
+"146","France",2016,"oil_electricity",11400,6794.52
+"147","France",2016,"other_renewable_exc_biofuel_electricity",600,6794.52
+"148","France",2016,"solar_electricity",8660,6794.52
+"149","France",2016,"wind_electricity",21380,6794.52
+"150","France",2016,"tot",558800,6794.52
+"151","France",2017,"biofuel_electricity",7780,6794.52
+"152","France",2017,"coal_electricity",12810,6794.52
+"153","France",2017,"gas_electricity",40500,6794.52
+"154","France",2017,"hydro_electricity",50000,6794.52
+"155","France",2017,"nuclear_electricity",398360,6794.52
+"156","France",2017,"oil_electricity",12120,6794.52
+"157","France",2017,"other_renewable_exc_biofuel_electricity",650,6794.52
+"158","France",2017,"solar_electricity",9590,6794.52
+"159","France",2017,"wind_electricity",24610,6794.52
+"160","France",2017,"tot",556420,6794.52
+"161","France",2018,"biofuel_electricity",8380,6794.52
+"162","France",2018,"coal_electricity",8310,6794.52
+"163","France",2018,"gas_electricity",30610,6794.52
+"164","France",2018,"hydro_electricity",65110,6794.52
+"165","France",2018,"nuclear_electricity",412940,6794.52
+"166","France",2018,"oil_electricity",10560,6794.52
+"167","France",2018,"other_renewable_exc_biofuel_electricity",610,6794.52
+"168","France",2018,"solar_electricity",10810,6794.52
+"169","France",2018,"wind_electricity",28600,6794.52
+"170","France",2018,"tot",575930,6794.52
+"171","France",2019,"biofuel_electricity",8640,6794.52
+"172","France",2019,"coal_electricity",3640,6794.52
+"173","France",2019,"gas_electricity",39310,6794.52
+"174","France",2019,"hydro_electricity",56910,6794.52
+"175","France",2019,"nuclear_electricity",399010,6794.52
+"176","France",2019,"oil_electricity",10710,6794.52
+"177","France",2019,"other_renewable_exc_biofuel_electricity",610,6794.52
+"178","France",2019,"solar_electricity",12180,6794.52
+"179","France",2019,"wind_electricity",34720,6794.52
+"180","France",2019,"tot",565730,6794.52
+"181","United Kingdom",2014,"biofuel_electricity",22620,4021.94
+"182","United Kingdom",2014,"coal_electricity",100240,4021.94
+"183","United Kingdom",2014,"gas_electricity",100890,4021.94
+"184","United Kingdom",2014,"hydro_electricity",5890,4021.94
+"185","United Kingdom",2014,"nuclear_electricity",63750,4021.94
+"186","United Kingdom",2014,"oil_electricity",8690,4021.94
+"187","United Kingdom",2014,"other_renewable_exc_biofuel_electricity",0,4021.94
+"188","United Kingdom",2014,"solar_electricity",4050,4021.94
+"189","United Kingdom",2014,"wind_electricity",31950,4021.94
+"190","United Kingdom",2014,"tot",338080,4021.94
+"191","United Kingdom",2015,"biofuel_electricity",29260,4021.94
+"192","United Kingdom",2015,"coal_electricity",75880,4021.94
+"193","United Kingdom",2015,"gas_electricity",99880,4021.94
+"194","United Kingdom",2015,"hydro_electricity",6300,4021.94
+"195","United Kingdom",2015,"nuclear_electricity",70340,4021.94
+"196","United Kingdom",2015,"oil_electricity",9410,4021.94
+"197","United Kingdom",2015,"other_renewable_exc_biofuel_electricity",0,4021.94
+"198","United Kingdom",2015,"solar_electricity",7530,4021.94
+"199","United Kingdom",2015,"wind_electricity",40270,4021.94
+"200","United Kingdom",2015,"tot",338870,4021.94
+"201","United Kingdom",2016,"biofuel_electricity",30070,4021.94
+"202","United Kingdom",2016,"coal_electricity",30670,4021.94
+"203","United Kingdom",2016,"gas_electricity",143130,4021.94
+"204","United Kingdom",2016,"hydro_electricity",5370,4021.94
+"205","United Kingdom",2016,"nuclear_electricity",71730,4021.94
+"206","United Kingdom",2016,"oil_electricity",10640,4021.94
+"207","United Kingdom",2016,"other_renewable_exc_biofuel_electricity",0,4021.94
+"208","United Kingdom",2016,"solar_electricity",10410,4021.94
+"209","United Kingdom",2016,"wind_electricity",37160,4021.94
+"210","United Kingdom",2016,"tot",339180,4021.94
+"211","United Kingdom",2017,"biofuel_electricity",31900,4021.94
+"212","United Kingdom",2017,"coal_electricity",22530,4021.94
+"213","United Kingdom",2017,"gas_electricity",136750,4021.94
+"214","United Kingdom",2017,"hydro_electricity",5880,4021.94
+"215","United Kingdom",2017,"nuclear_electricity",70340,4021.94
+"216","United Kingdom",2017,"oil_electricity",9710,4021.94
+"217","United Kingdom",2017,"other_renewable_exc_biofuel_electricity",0,4021.94
+"218","United Kingdom",2017,"solar_electricity",11460,4021.94
+"219","United Kingdom",2017,"wind_electricity",49650,4021.94
+"220","United Kingdom",2017,"tot",338220,4021.94
+"221","United Kingdom",2018,"biofuel_electricity",34980,4021.94
+"222","United Kingdom",2018,"coal_electricity",16830,4021.94
+"223","United Kingdom",2018,"gas_electricity",131490,4021.94
+"224","United Kingdom",2018,"hydro_electricity",5440,4021.94
+"225","United Kingdom",2018,"nuclear_electricity",65060,4021.94
+"226","United Kingdom",2018,"oil_electricity",9340,4021.94
+"227","United Kingdom",2018,"other_renewable_exc_biofuel_electricity",10,4021.94
+"228","United Kingdom",2018,"solar_electricity",12670,4021.94
+"229","United Kingdom",2018,"wind_electricity",56910,4021.94
+"230","United Kingdom",2018,"tot",332730,4021.94
+"231","United Kingdom",2019,"biofuel_electricity",37400,4021.94
+"232","United Kingdom",2019,"coal_electricity",6920,4021.94
+"233","United Kingdom",2019,"gas_electricity",131990,4021.94
+"234","United Kingdom",2019,"hydro_electricity",5930,4021.94
+"235","United Kingdom",2019,"nuclear_electricity",56180,4021.94
+"236","United Kingdom",2019,"oil_electricity",9200,4021.94
+"237","United Kingdom",2019,"other_renewable_exc_biofuel_electricity",10,4021.94
+"238","United Kingdom",2019,"solar_electricity",12420,4021.94
+"239","United Kingdom",2019,"wind_electricity",63840,4021.94
+"240","United Kingdom",2019,"tot",323890,4021.94
+"241","Italy",2014,"biofuel_electricity",18720,3420.64
+"242","Italy",2014,"coal_electricity",43450,3420.64
+"243","Italy",2014,"gas_electricity",93660,3420.64
+"244","Italy",2014,"hydro_electricity",58550,3420.64
+"245","Italy",2014,"nuclear_electricity",0,3420.64
+"246","Italy",2014,"oil_electricity",18740,3420.64
+"247","Italy",2014,"other_renewable_exc_biofuel_electricity",5920,3420.64
+"248","Italy",2014,"solar_electricity",22310,3420.64
+"249","Italy",2014,"wind_electricity",15180,3420.64
+"250","Italy",2014,"tot",276530,3420.64
+"251","Italy",2015,"biofuel_electricity",19390,3420.64
+"252","Italy",2015,"coal_electricity",43200,3420.64
+"253","Italy",2015,"gas_electricity",110880,3420.64
+"254","Italy",2015,"hydro_electricity",45540,3420.64
+"255","Italy",2015,"nuclear_electricity",0,3420.64
+"256","Italy",2015,"oil_electricity",16730,3420.64
+"257","Italy",2015,"other_renewable_exc_biofuel_electricity",6180,3420.64
+"258","Italy",2015,"solar_electricity",22940,3420.64
+"259","Italy",2015,"wind_electricity",14840,3420.64
+"260","Italy",2015,"tot",279700,3420.64
+"261","Italy",2016,"biofuel_electricity",19500,3420.64
+"262","Italy",2016,"coal_electricity",35610,3420.64
+"263","Italy",2016,"gas_electricity",126170,3420.64
+"264","Italy",2016,"hydro_electricity",42430,3420.64
+"265","Italy",2016,"nuclear_electricity",0,3420.64
+"266","Italy",2016,"oil_electricity",16160,3420.64
+"267","Italy",2016,"other_renewable_exc_biofuel_electricity",6290,3420.64
+"268","Italy",2016,"solar_electricity",22100,3420.64
+"269","Italy",2016,"wind_electricity",17690,3420.64
+"270","Italy",2016,"tot",285950,3420.64
+"271","Italy",2017,"biofuel_electricity",19370,3420.64
+"272","Italy",2017,"coal_electricity",32630,3420.64
+"273","Italy",2017,"gas_electricity",140360,3420.64
+"274","Italy",2017,"hydro_electricity",36200,3420.64
+"275","Italy",2017,"nuclear_electricity",0,3420.64
+"276","Italy",2017,"oil_electricity",15210,3420.64
+"277","Italy",2017,"other_renewable_exc_biofuel_electricity",6200,3420.64
+"278","Italy",2017,"solar_electricity",24380,3420.64
+"279","Italy",2017,"wind_electricity",17740,3420.64
+"280","Italy",2017,"tot",292090,3420.64
+"281","Italy",2018,"biofuel_electricity",19140,3420.64
+"282","Italy",2018,"coal_electricity",28470,3420.64
+"283","Italy",2018,"gas_electricity",128560,3420.64
+"284","Italy",2018,"hydro_electricity",48790,3420.64
+"285","Italy",2018,"nuclear_electricity",0,3420.64
+"286","Italy",2018,"oil_electricity",14620,3420.64
+"287","Italy",2018,"other_renewable_exc_biofuel_electricity",6110,3420.64
+"288","Italy",2018,"solar_electricity",22650,3420.64
+"289","Italy",2018,"wind_electricity",17720,3420.64
+"290","Italy",2018,"tot",286060,3420.64
+"291","Italy",2019,"biofuel_electricity",19550,3420.64
+"292","Italy",2019,"coal_electricity",18840,3420.64
+"293","Italy",2019,"gas_electricity",141700,3420.64
+"294","Italy",2019,"hydro_electricity",46320,3420.64
+"295","Italy",2019,"nuclear_electricity",0,3420.64
+"296","Italy",2019,"oil_electricity",13620,3420.64
+"297","Italy",2019,"other_renewable_exc_biofuel_electricity",6070,3420.64
+"298","Italy",2019,"solar_electricity",23690,3420.64
+"299","Italy",2019,"wind_electricity",20200,3420.64
+"300","Italy",2019,"tot",289990,3420.64
+"301","Turkey",2014,"biofuel_electricity",1080,3366.72
+"302","Turkey",2014,"coal_electricity",76260,3366.72
+"303","Turkey",2014,"gas_electricity",120580,3366.72
+"304","Turkey",2014,"hydro_electricity",40640,3366.72
+"305","Turkey",2014,"nuclear_electricity",0,3366.72
+"306","Turkey",2014,"oil_electricity",2160,3366.72
+"307","Turkey",2014,"other_renewable_exc_biofuel_electricity",2360,3366.72
+"308","Turkey",2014,"solar_electricity",20,3366.72
+"309","Turkey",2014,"wind_electricity",8520,3366.72
+"310","Turkey",2014,"tot",251620,3366.72
+"311","Turkey",2015,"biofuel_electricity",1240,3366.72
+"312","Turkey",2015,"coal_electricity",76160,3366.72
+"313","Turkey",2015,"gas_electricity",99220,3366.72
+"314","Turkey",2015,"hydro_electricity",67150,3366.72
+"315","Turkey",2015,"nuclear_electricity",0,3366.72
+"316","Turkey",2015,"oil_electricity",2250,3366.72
+"317","Turkey",2015,"other_renewable_exc_biofuel_electricity",3420,3366.72
+"318","Turkey",2015,"solar_electricity",190,3366.72
+"319","Turkey",2015,"wind_electricity",11650,3366.72
+"320","Turkey",2015,"tot",261280,3366.72
+"321","Turkey",2016,"biofuel_electricity",1630,3366.72
+"322","Turkey",2016,"coal_electricity",92270,3366.72
+"323","Turkey",2016,"gas_electricity",89230,3366.72
+"324","Turkey",2016,"hydro_electricity",67230,3366.72
+"325","Turkey",2016,"nuclear_electricity",0,3366.72
+"326","Turkey",2016,"oil_electricity",1950,3366.72
+"327","Turkey",2016,"other_renewable_exc_biofuel_electricity",4820,3366.72
+"328","Turkey",2016,"solar_electricity",1040,3366.72
+"329","Turkey",2016,"wind_electricity",15520,3366.72
+"330","Turkey",2016,"tot",273690,3366.72
+"331","Turkey",2017,"biofuel_electricity",2100,3366.72
+"332","Turkey",2017,"coal_electricity",97480,3366.72
+"333","Turkey",2017,"gas_electricity",110490,3366.72
+"334","Turkey",2017,"hydro_electricity",58220,3366.72
+"335","Turkey",2017,"nuclear_electricity",0,3366.72
+"336","Turkey",2017,"oil_electricity",1230,3366.72
+"337","Turkey",2017,"other_renewable_exc_biofuel_electricity",6130,3366.72
+"338","Turkey",2017,"solar_electricity",2890,3366.72
+"339","Turkey",2017,"wind_electricity",17900,3366.72
+"340","Turkey",2017,"tot",296440,3366.72
+"341","Turkey",2018,"biofuel_electricity",2500,3366.72
+"342","Turkey",2018,"coal_electricity",111800,3366.72
+"343","Turkey",2018,"gas_electricity",90090,3366.72
+"344","Turkey",2018,"hydro_electricity",59750,3366.72
+"345","Turkey",2018,"nuclear_electricity",0,3366.72
+"346","Turkey",2018,"oil_electricity",1440,3366.72
+"347","Turkey",2018,"other_renewable_exc_biofuel_electricity",6910,3366.72
+"348","Turkey",2018,"solar_electricity",7800,3366.72
+"349","Turkey",2018,"wind_electricity",19860,3366.72
+"350","Turkey",2018,"tot",300150,3366.72
+"351","Turkey",2019,"biofuel_electricity",3400,3366.72
+"352","Turkey",2019,"coal_electricity",112860,3366.72
+"353","Turkey",2019,"gas_electricity",54880,3366.72
+"354","Turkey",2019,"hydro_electricity",88640,3366.72
+"355","Turkey",2019,"nuclear_electricity",0,3366.72
+"356","Turkey",2019,"oil_electricity",970,3366.72
+"357","Turkey",2019,"other_renewable_exc_biofuel_electricity",8230,3366.72
+"358","Turkey",2019,"solar_electricity",9570,3366.72
+"359","Turkey",2019,"wind_electricity",21630,3366.72
+"360","Turkey",2019,"tot",300180,3366.72
+"361","Spain",2014,"biofuel_electricity",5410,3273.22
+"362","Spain",2014,"coal_electricity",43810,3273.22
+"363","Spain",2014,"gas_electricity",47270,3273.22
+"364","Spain",2014,"hydro_electricity",39170,3273.22
+"365","Spain",2014,"nuclear_electricity",57310,3273.22
+"366","Spain",2014,"oil_electricity",15790,3273.22
+"367","Spain",2014,"other_renewable_exc_biofuel_electricity",0,3273.22
+"368","Spain",2014,"solar_electricity",13670,3273.22
+"369","Spain",2014,"wind_electricity",52010,3273.22
+"370","Spain",2014,"tot",274440,3273.22
+"371","Spain",2015,"biofuel_electricity",5760,3273.22
+"372","Spain",2015,"coal_electricity",51370,3273.22
+"373","Spain",2015,"gas_electricity",52500,3273.22
+"374","Spain",2015,"hydro_electricity",28140,3273.22
+"375","Spain",2015,"nuclear_electricity",57200,3273.22
+"376","Spain",2015,"oil_electricity",19020,3273.22
+"377","Spain",2015,"other_renewable_exc_biofuel_electricity",0,3273.22
+"378","Spain",2015,"solar_electricity",13860,3273.22
+"379","Spain",2015,"wind_electricity",49320,3273.22
+"380","Spain",2015,"tot",277170,3273.22
+"381","Spain",2016,"biofuel_electricity",5690,3273.22
+"382","Spain",2016,"coal_electricity",36430,3273.22
+"383","Spain",2016,"gas_electricity",52830,3273.22
+"384","Spain",2016,"hydro_electricity",36400,3273.22
+"385","Spain",2016,"nuclear_electricity",58630,3273.22
+"386","Spain",2016,"oil_electricity",18180,3273.22
+"387","Spain",2016,"other_renewable_exc_biofuel_electricity",0,3273.22
+"388","Spain",2016,"solar_electricity",13640,3273.22
+"389","Spain",2016,"wind_electricity",48900,3273.22
+"390","Spain",2016,"tot",270700,3273.22
+"391","Spain",2017,"biofuel_electricity",6080,3273.22
+"392","Spain",2017,"coal_electricity",45130,3273.22
+"393","Spain",2017,"gas_electricity",64040,3273.22
+"394","Spain",2017,"hydro_electricity",18320,3273.22
+"395","Spain",2017,"nuclear_electricity",58040,3273.22
+"396","Spain",2017,"oil_electricity",17240,3273.22
+"397","Spain",2017,"other_renewable_exc_biofuel_electricity",0,3273.22
+"398","Spain",2017,"solar_electricity",14400,3273.22
+"399","Spain",2017,"wind_electricity",49130,3273.22
+"400","Spain",2017,"tot",272380,3273.22
+"401","Spain",2018,"biofuel_electricity",5910,3273.22
+"402","Spain",2018,"coal_electricity",37340,3273.22
+"403","Spain",2018,"gas_electricity",58000,3273.22
+"404","Spain",2018,"hydro_electricity",34330,3273.22
+"405","Spain",2018,"nuclear_electricity",55770,3273.22
+"406","Spain",2018,"oil_electricity",16420,3273.22
+"407","Spain",2018,"other_renewable_exc_biofuel_electricity",0,3273.22
+"408","Spain",2018,"solar_electricity",12740,3273.22
+"409","Spain",2018,"wind_electricity",50890,3273.22
+"410","Spain",2018,"tot",271400,3273.22
+"411","Spain",2019,"biofuel_electricity",5570,3273.22
+"412","Spain",2019,"coal_electricity",12860,3273.22
+"413","Spain",2019,"gas_electricity",83710,3273.22
+"414","Spain",2019,"hydro_electricity",24650,3273.22
+"415","Spain",2019,"nuclear_electricity",58350,3273.22
+"416","Spain",2019,"oil_electricity",14610,3273.22
+"417","Spain",2019,"other_renewable_exc_biofuel_electricity",20,3273.22
+"418","Spain",2019,"solar_electricity",15100,3273.22
+"419","Spain",2019,"wind_electricity",55650,3273.22
+"420","Spain",2019,"tot",270520,3273.22
+"421","Indonesia",2014,"biofuel_electricity",9180,3166.82
+"422","Indonesia",2014,"coal_electricity",119530,3166.82
+"423","Indonesia",2014,"gas_electricity",60540,3166.82
+"424","Indonesia",2014,"hydro_electricity",15160,3166.82
+"425","Indonesia",2014,"nuclear_electricity",0,3166.82
+"426","Indonesia",2014,"oil_electricity",23060,3166.82
+"427","Indonesia",2014,"other_renewable_exc_biofuel_electricity",10060,3166.82
+"428","Indonesia",2014,"solar_electricity",10,3166.82
+"429","Indonesia",2014,"wind_electricity",0,3166.82
+"430","Indonesia",2014,"tot",237540,3166.82
+"431","Indonesia",2015,"biofuel_electricity",9750,3166.82
+"432","Indonesia",2015,"coal_electricity",124660,3166.82
+"433","Indonesia",2015,"gas_electricity",54140,3166.82
+"434","Indonesia",2015,"hydro_electricity",13740,3166.82
+"435","Indonesia",2015,"nuclear_electricity",0,3166.82
+"436","Indonesia",2015,"oil_electricity",30920,3166.82
+"437","Indonesia",2015,"other_renewable_exc_biofuel_electricity",10060,3166.82
+"438","Indonesia",2015,"solar_electricity",10,3166.82
+"439","Indonesia",2015,"wind_electricity",0,3166.82
+"440","Indonesia",2015,"tot",243280,3166.82
+"441","Indonesia",2016,"biofuel_electricity",10210,3166.82
+"442","Indonesia",2016,"coal_electricity",135380,3166.82
+"443","Indonesia",2016,"gas_electricity",61790,3166.82
+"444","Indonesia",2016,"hydro_electricity",18680,3166.82
+"445","Indonesia",2016,"nuclear_electricity",0,3166.82
+"446","Indonesia",2016,"oil_electricity",20800,3166.82
+"447","Indonesia",2016,"other_renewable_exc_biofuel_electricity",10660,3166.82
+"448","Indonesia",2016,"solar_electricity",20,3166.82
+"449","Indonesia",2016,"wind_electricity",10,3166.82
+"450","Indonesia",2016,"tot",257550,3166.82
+"451","Indonesia",2017,"biofuel_electricity",11450,3166.82
+"452","Indonesia",2017,"coal_electricity",147960,3166.82
+"453","Indonesia",2017,"gas_electricity",55830,3166.82
+"454","Indonesia",2017,"hydro_electricity",18630,3166.82
+"455","Indonesia",2017,"nuclear_electricity",0,3166.82
+"456","Indonesia",2017,"oil_electricity",18850,3166.82
+"457","Indonesia",2017,"other_renewable_exc_biofuel_electricity",13060,3166.82
+"458","Indonesia",2017,"solar_electricity",30,3166.82
+"459","Indonesia",2017,"wind_electricity",0,3166.82
+"460","Indonesia",2017,"tot",265810,3166.82
+"461","Indonesia",2018,"biofuel_electricity",12130,3166.82
+"462","Indonesia",2018,"coal_electricity",160010,3166.82
+"463","Indonesia",2018,"gas_electricity",57450,3166.82
+"464","Indonesia",2018,"hydro_electricity",21640,3166.82
+"465","Indonesia",2018,"nuclear_electricity",0,3166.82
+"466","Indonesia",2018,"oil_electricity",17950,3166.82
+"467","Indonesia",2018,"other_renewable_exc_biofuel_electricity",14330,3166.82
+"468","Indonesia",2018,"solar_electricity",90,3166.82
+"469","Indonesia",2018,"wind_electricity",190,3166.82
+"470","Indonesia",2018,"tot",283790,3166.82
+"471","Indonesia",2019,"biofuel_electricity",12170,3166.82
+"472","Indonesia",2019,"coal_electricity",174490,3166.82
+"473","Indonesia",2019,"gas_electricity",62320,3166.82
+"474","Indonesia",2019,"hydro_electricity",21160,3166.82
+"475","Indonesia",2019,"nuclear_electricity",0,3166.82
+"476","Indonesia",2019,"oil_electricity",10590,3166.82
+"477","Indonesia",2019,"other_renewable_exc_biofuel_electricity",14110,3166.82
+"478","Indonesia",2019,"solar_electricity",120,3166.82
+"479","Indonesia",2019,"wind_electricity",480,3166.82
+"480","Indonesia",2019,"tot",295440,3166.82
+"481","Poland",2014,"biofuel_electricity",9980,1982.42
+"482","Poland",2014,"coal_electricity",129520,1982.42
+"483","Poland",2014,"gas_electricity",5330,1982.42
+"484","Poland",2014,"hydro_electricity",2180,1982.42
+"485","Poland",2014,"nuclear_electricity",0,1982.42
+"486","Poland",2014,"oil_electricity",3650,1982.42
+"487","Poland",2014,"other_renewable_exc_biofuel_electricity",0,1982.42
+"488","Poland",2014,"solar_electricity",10,1982.42
+"489","Poland",2014,"wind_electricity",7680,1982.42
+"490","Poland",2014,"tot",158350,1982.42
+"491","Poland",2015,"biofuel_electricity",9940,1982.42
+"492","Poland",2015,"coal_electricity",130520,1982.42
+"493","Poland",2015,"gas_electricity",6390,1982.42
+"494","Poland",2015,"hydro_electricity",1830,1982.42
+"495","Poland",2015,"nuclear_electricity",0,1982.42
+"496","Poland",2015,"oil_electricity",4700,1982.42
+"497","Poland",2015,"other_renewable_exc_biofuel_electricity",0,1982.42
+"498","Poland",2015,"solar_electricity",60,1982.42
+"499","Poland",2015,"wind_electricity",10860,1982.42
+"500","Poland",2015,"tot",164300,1982.42
+"501","Poland",2016,"biofuel_electricity",7960,1982.42
+"502","Poland",2016,"coal_electricity",130320,1982.42
+"503","Poland",2016,"gas_electricity",7830,1982.42
+"504","Poland",2016,"hydro_electricity",2140,1982.42
+"505","Poland",2016,"nuclear_electricity",0,1982.42
+"506","Poland",2016,"oil_electricity",5040,1982.42
+"507","Poland",2016,"other_renewable_exc_biofuel_electricity",0,1982.42
+"508","Poland",2016,"solar_electricity",120,1982.42
+"509","Poland",2016,"wind_electricity",12590,1982.42
+"510","Poland",2016,"tot",166000,1982.42
+"511","Poland",2017,"biofuel_electricity",6490,1982.42
+"512","Poland",2017,"coal_electricity",131160,1982.42
+"513","Poland",2017,"gas_electricity",10030,1982.42
+"514","Poland",2017,"hydro_electricity",2560,1982.42
+"515","Poland",2017,"nuclear_electricity",0,1982.42
+"516","Poland",2017,"oil_electricity",4590,1982.42
+"517","Poland",2017,"other_renewable_exc_biofuel_electricity",0,1982.42
+"518","Poland",2017,"solar_electricity",170,1982.42
+"519","Poland",2017,"wind_electricity",14910,1982.42
+"520","Poland",2017,"tot",169910,1982.42
+"521","Poland",2018,"biofuel_electricity",6550,1982.42
+"522","Poland",2018,"coal_electricity",130560,1982.42
+"523","Poland",2018,"gas_electricity",12630,1982.42
+"524","Poland",2018,"hydro_electricity",1970,1982.42
+"525","Poland",2018,"nuclear_electricity",0,1982.42
+"526","Poland",2018,"oil_electricity",4620,1982.42
+"527","Poland",2018,"other_renewable_exc_biofuel_electricity",0,1982.42
+"528","Poland",2018,"solar_electricity",300,1982.42
+"529","Poland",2018,"wind_electricity",12800,1982.42
+"530","Poland",2018,"tot",169430,1982.42
+"531","Poland",2019,"biofuel_electricity",7680,1982.42
+"532","Poland",2019,"coal_electricity",118140,1982.42
+"533","Poland",2019,"gas_electricity",14800,1982.42
+"534","Poland",2019,"hydro_electricity",1960,1982.42
+"535","Poland",2019,"nuclear_electricity",0,1982.42
+"536","Poland",2019,"oil_electricity",4820,1982.42
+"537","Poland",2019,"other_renewable_exc_biofuel_electricity",0,1982.42
+"538","Poland",2019,"solar_electricity",710,1982.42
+"539","Poland",2019,"wind_electricity",15110,1982.42
+"540","Poland",2019,"tot",163220,1982.42
+"541","Ukraine",2014,"biofuel_electricity",130,1962.24
+"542","Ukraine",2014,"coal_electricity",70490,1962.24
+"543","Ukraine",2014,"gas_electricity",12710,1962.24
+"544","Ukraine",2014,"hydro_electricity",8480,1962.24
+"545","Ukraine",2014,"nuclear_electricity",88390,1962.24
+"546","Ukraine",2014,"oil_electricity",1060,1962.24
+"547","Ukraine",2014,"other_renewable_exc_biofuel_electricity",0,1962.24
+"548","Ukraine",2014,"solar_electricity",430,1962.24
+"549","Ukraine",2014,"wind_electricity",1130,1962.24
+"550","Ukraine",2014,"tot",182820,1962.24
+"551","Ukraine",2015,"biofuel_electricity",140,1962.24
+"552","Ukraine",2015,"coal_electricity",56530,1962.24
+"553","Ukraine",2015,"gas_electricity",10100,1962.24
+"554","Ukraine",2015,"hydro_electricity",5400,1962.24
+"555","Ukraine",2015,"nuclear_electricity",87630,1962.24
+"556","Ukraine",2015,"oil_electricity",2320,1962.24
+"557","Ukraine",2015,"other_renewable_exc_biofuel_electricity",0,1962.24
+"558","Ukraine",2015,"solar_electricity",480,1962.24
+"559","Ukraine",2015,"wind_electricity",1080,1962.24
+"560","Ukraine",2015,"tot",163680,1962.24
+"561","Ukraine",2016,"biofuel_electricity",140,1962.24
+"562","Ukraine",2016,"coal_electricity",61290,1962.24
+"563","Ukraine",2016,"gas_electricity",9830,1962.24
+"564","Ukraine",2016,"hydro_electricity",7680,1962.24
+"565","Ukraine",2016,"nuclear_electricity",80950,1962.24
+"566","Ukraine",2016,"oil_electricity",3250,1962.24
+"567","Ukraine",2016,"other_renewable_exc_biofuel_electricity",0,1962.24
+"568","Ukraine",2016,"solar_electricity",490,1962.24
+"569","Ukraine",2016,"wind_electricity",950,1962.24
+"570","Ukraine",2016,"tot",164580,1962.24
+"571","Ukraine",2017,"biofuel_electricity",210,1962.24
+"572","Ukraine",2017,"coal_electricity",49330,1962.24
+"573","Ukraine",2017,"gas_electricity",7380,1962.24
+"574","Ukraine",2017,"hydro_electricity",8950,1962.24
+"575","Ukraine",2017,"nuclear_electricity",85580,1962.24
+"576","Ukraine",2017,"oil_electricity",2890,1962.24
+"577","Ukraine",2017,"other_renewable_exc_biofuel_electricity",0,1962.24
+"578","Ukraine",2017,"solar_electricity",720,1962.24
+"579","Ukraine",2017,"wind_electricity",980,1962.24
+"580","Ukraine",2017,"tot",156040,1962.24
+"581","Ukraine",2018,"biofuel_electricity",300,1962.24
+"582","Ukraine",2018,"coal_electricity",49060,1962.24
+"583","Ukraine",2018,"gas_electricity",10570,1962.24
+"584","Ukraine",2018,"hydro_electricity",10430,1962.24
+"585","Ukraine",2018,"nuclear_electricity",84400,1962.24
+"586","Ukraine",2018,"oil_electricity",2800,1962.24
+"587","Ukraine",2018,"other_renewable_exc_biofuel_electricity",0,1962.24
+"588","Ukraine",2018,"solar_electricity",1110,1962.24
+"589","Ukraine",2018,"wind_electricity",1190,1962.24
+"590","Ukraine",2018,"tot",159860,1962.24
+"591","Ukraine",2019,"biofuel_electricity",410,1962.24
+"592","Ukraine",2019,"coal_electricity",45530,1962.24
+"593","Ukraine",2019,"gas_electricity",11930,1962.24
+"594","Ukraine",2019,"hydro_electricity",6510,1962.24
+"595","Ukraine",2019,"nuclear_electricity",83000,1962.24
+"596","Ukraine",2019,"oil_electricity",1810,1962.24
+"597","Ukraine",2019,"other_renewable_exc_biofuel_electricity",0,1962.24
+"598","Ukraine",2019,"solar_electricity",2930,1962.24
+"599","Ukraine",2019,"wind_electricity",2020,1962.24
+"600","Ukraine",2019,"tot",154140,1962.24
