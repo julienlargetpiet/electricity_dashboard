@@ -22,6 +22,7 @@ source("R/slope.R")
 source("R/dumbell.R")
 source("R/cons_bar_graph1.R")
 source("R/net_imp_bar.R")
+source("R/net_imp_barb.R")
 source("R/indiv_graph.R")
 
 raw_datas <- read.table(file = "datas/owid-energy-data.csv", quote = "\\", sep = ",", header = TRUE, fill = TRUE)

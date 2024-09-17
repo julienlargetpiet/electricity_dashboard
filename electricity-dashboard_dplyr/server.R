@@ -17,7 +17,10 @@ function(input, output, session) {
   output$cons_bar_graph1 <- renderPlot({cons_bar_graph1(country = input$country, 
           source_energy = input$source_energy)})
   output$net_imp_bar <- renderPlot({net_imp_bar(country = input$country)})
-  output$case6 <- renderText({paste("Evolution of the volume of net imports (exportation - imports) of electricity for", 
+  output$net_imp_barb <- renderPlot({net_imp_barb(country = input$country)})
+  output$case6 <- renderText({paste("Evolution of the volume of net imports (imports - exportations) of electricity for", 
+          input$country)})
+  output$case6b <- renderText({paste("Evolution of the volume of net imports (imports - exportations) of electricity for", 
           input$country)})
   output$indiv_graph <- renderPlot({indiv_graph(country = input$country, source_energy = input$source_energy2)})
   output$downloadData <- downloadHandler(
