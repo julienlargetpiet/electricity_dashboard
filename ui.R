@@ -139,8 +139,8 @@ fluidPage(
           ),
           virtualSelectInput(
             inputId = "source_energy_comp",
-            label = "Country :",
-            choices = sort(unique(elec_data_pivoted$country)),
+            label = "Energy source :",
+            choices = sort(unique(filtered_elec_data_pivoted$type)),
             selected = NULL,
             multiple = TRUE
           ),
