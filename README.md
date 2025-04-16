@@ -1,9 +1,5 @@
 # Electricity dashboard
 
-Available here:
-
-https://jlp0.shinyapps.io/energy-dashboard/
-
 Rshiny App representing an electricity dashboard of the world for more than 40 years. 
 
 Here the data source: https://github.com/owid/energy-data
